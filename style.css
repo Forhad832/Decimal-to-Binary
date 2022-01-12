@@ -1,0 +1,11 @@
+.number-btn {
+    border: none;
+    border-bottom: 2px solid gainsboro !important;
+}
+.number-btn:focus{
+    outline: none;
+}
+
+#result {
+    visibility: hidden;
+}
